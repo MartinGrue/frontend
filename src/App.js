@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was changed twice on gitmerge branch
+          I was changed twice on gitreabse branch
         </a>
       </header>
     </div>
