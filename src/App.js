@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was changed on feature branch3
+          I was changed on gitrebase branch
         </a>
       </header>
     </div>
